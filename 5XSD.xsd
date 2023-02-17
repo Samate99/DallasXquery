@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:element name="FemaleForeign">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ForeignLiveFemaleActors" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="ForeignLiveFemaleActors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="birthday" type="xs:date"/>
+                <xs:element name="deathday" type="xs:string"/>
+                <xs:element name="Fname" type="xs:string"/>
+                <xs:element name="Fcode" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

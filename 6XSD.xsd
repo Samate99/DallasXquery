@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:element name="Six">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="FirstFive" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="FirstFive">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="birthday" type="xs:string"/>
+                <xs:element name="url" type="xs:string"/>
+                <xs:element name="season" type="xs:int"/>
+                <xs:element name="number" type="xs:int"/>
+                <xs:element name="airdate" type="xs:date"/>
+                <xs:element name="runtime" type="xs:int"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

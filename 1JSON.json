@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Barbecue",
+        "url": "https:\/\/www.tvmaze.com\/episodes\/80249\/dallas-1x05-barbecue",
+        "runtime": 60,
+        "airdate": "1978-04-30",
+        "id": 80249
+    },
+    {
+        "name": "Winds of Vengeance",
+        "url": "https:\/\/www.tvmaze.com\/episodes\/80248\/dallas-1x04-winds-of-vengeance",
+        "runtime": 60,
+        "airdate": "1978-04-23",
+        "id": 80248
+    },
+    {
+        "name": "Spy in the House",
+        "url": "https:\/\/www.tvmaze.com\/episodes\/80247\/dallas-1x03-spy-in-the-house",
+        "runtime": 60,
+        "airdate": "1978-04-16",
+        "id": 80247
+    },
+    {
+        "name": "Lessons",
+        "url": "https:\/\/www.tvmaze.com\/episodes\/80246\/dallas-1x02-lessons",
+        "runtime": 60,
+        "airdate": "1978-04-09",
+        "id": 80246
+    },
+    {
+        "name": "Digger's Daughter",
+        "url": "https:\/\/www.tvmaze.com\/episodes\/80245\/dallas-1x01-diggers-daughter",
+        "runtime": 60,
+        "airdate": "1978-04-02",
+        "id": 80245
+    }
+]

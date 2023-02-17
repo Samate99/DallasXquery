@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Six>
+    <FirstFive>
+        <name>The Family Ewing</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80436/dallas-9x01-the-family-ewing</url>
+        <season>9</season>
+        <number>1</number>
+        <airdate>1985-09-27</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Rock Bottom</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80437/dallas-9x02-rock-bottom</url>
+        <season>9</season>
+        <number>2</number>
+        <airdate>1985-09-27</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Those Eyes</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80438/dallas-9x03-those-eyes</url>
+        <season>9</season>
+        <number>3</number>
+        <airdate>1985-10-04</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Resurrection</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80439/dallas-9x04-resurrection</url>
+        <season>9</season>
+        <number>4</number>
+        <airdate>1985-10-11</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Saving Grace</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80440/dallas-9x05-saving-grace</url>
+        <season>9</season>
+        <number>5</number>
+        <airdate>1985-10-18</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Return to Camelot (1)</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80467/dallas-10x01-return-to-camelot-1</url>
+        <season>10</season>
+        <number>1</number>
+        <airdate>1986-09-26</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Return to Camelot (2)</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80468/dallas-10x02-return-to-camelot-2</url>
+        <season>10</season>
+        <number>2</number>
+        <airdate>1986-09-26</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Pari Per Sue</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80469/dallas-10x03-pari-per-sue</url>
+        <season>10</season>
+        <number>3</number>
+        <airdate>1986-10-03</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Once and Future King</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80470/dallas-10x04-once-and-future-king</url>
+        <season>10</season>
+        <number>4</number>
+        <airdate>1986-10-10</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Enigma</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/80471/dallas-10x05-enigma</url>
+        <season>10</season>
+        <number>5</number>
+        <airdate>1986-10-17</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>After the Fall: Ewing Rise</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325747/dallas-11x01-after-the-fall-ewing-rise</url>
+        <season>11</season>
+        <number>1</number>
+        <airdate>1987-09-25</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>After the Fall: Digger Redux</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325748/dallas-11x02-after-the-fall-digger-redux</url>
+        <season>11</season>
+        <number>2</number>
+        <airdate>1987-09-25</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>The Son Also Rises</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325749/dallas-11x03-the-son-also-rises</url>
+        <season>11</season>
+        <number>3</number>
+        <airdate>1987-10-02</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Gone with the Wind</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325750/dallas-11x04-gone-with-the-wind</url>
+        <season>11</season>
+        <number>4</number>
+        <airdate>1987-10-09</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>The Lady Vanishes</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325751/dallas-11x05-the-lady-vanishes</url>
+        <season>11</season>
+        <number>5</number>
+        <airdate>1987-10-16</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Carousel</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325777/dallas-12x01-carousel</url>
+        <season>12</season>
+        <number>1</number>
+        <airdate>1988-10-28</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>No Greater Love</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325778/dallas-12x02-no-greater-love</url>
+        <season>12</season>
+        <number>2</number>
+        <airdate>1988-11-04</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>The Call of the Wild</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325779/dallas-12x03-the-call-of-the-wild</url>
+        <season>12</season>
+        <number>3</number>
+        <airdate>1988-11-11</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Out of the Frying Pan</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325780/dallas-12x04-out-of-the-frying-pan</url>
+        <season>12</season>
+        <number>4</number>
+        <airdate>1988-11-18</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Road Work</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325781/dallas-12x05-road-work</url>
+        <season>12</season>
+        <number>5</number>
+        <airdate>1988-12-02</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Phantom of the Oil Rig</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325804/dallas-13x01-phantom-of-the-oil-rig</url>
+        <season>13</season>
+        <number>1</number>
+        <airdate>1989-09-22</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>The Leopard's Spots</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325805/dallas-13x02-the-leopards-spots</url>
+        <season>13</season>
+        <number>2</number>
+        <airdate>1989-09-22</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Cry Me a River of Oil</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325806/dallas-13x03-cry-me-a-river-of-oil</url>
+        <season>13</season>
+        <number>3</number>
+        <airdate>1989-09-29</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Ka-Booooom!</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325807/dallas-13x04-ka-booooom</url>
+        <season>13</season>
+        <number>4</number>
+        <airdate>1989-10-06</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Sunrise, Sunset</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325808/dallas-13x05-sunrise-sunset</url>
+        <season>13</season>
+        <number>5</number>
+        <airdate>1989-10-13</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>April in Paris</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325831/dallas-14x01-april-in-paris</url>
+        <season>14</season>
+        <number>1</number>
+        <airdate>1990-11-02</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Charade</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325832/dallas-14x02-charade</url>
+        <season>14</season>
+        <number>2</number>
+        <airdate>1990-11-09</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>One Last Kiss</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325833/dallas-14x03-one-last-kiss</url>
+        <season>14</season>
+        <number>3</number>
+        <airdate>1990-11-16</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Terminus</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325834/dallas-14x04-terminus</url>
+        <season>14</season>
+        <number>4</number>
+        <airdate>1990-11-23</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+    <FirstFive>
+        <name>Tunnel of Love</name>
+        <birthday/>
+        <url>https://www.tvmaze.com/episodes/325835/dallas-14x05-tunnel-of-love</url>
+        <season>14</season>
+        <number>5</number>
+        <airdate>1990-11-30</airdate>
+        <runtime>60</runtime>
+    </FirstFive>
+</Six>

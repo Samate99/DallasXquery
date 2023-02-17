@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FemaleForeign>
+    <ForeignLiveFemaleActors>
+        <name>Lesley-Anne Down</name>
+        <birthday>1954-03-17</birthday>
+        <deathday/>
+        <Fname>United Kingdom</Fname>
+        <Fcode>GB</Fcode>
+    </ForeignLiveFemaleActors>
+    <ForeignLiveFemaleActors>
+        <name>Victoria Principal</name>
+        <birthday>1950-01-03</birthday>
+        <deathday/>
+        <Fname>Japan</Fname>
+        <Fcode>JP</Fcode>
+    </ForeignLiveFemaleActors>
+</FemaleForeign>

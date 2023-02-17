@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <DeadMales>
+        <name>Howard Keel</name>
+        <gender>Howard Keel</gender>
+        <birthday>1919-04-13</birthday>
+        <deathday>2004-11-07</deathday>
+        <url>https://www.tvmaze.com/people/90163/howard-keel</url>
+    </DeadMales>
+    <DeadMales>
+        <name>George Kennedy</name>
+        <gender>George Kennedy</gender>
+        <birthday>1925-02-18</birthday>
+        <deathday>2016-02-28</deathday>
+        <url>https://www.tvmaze.com/people/85815/george-kennedy</url>
+    </DeadMales>
+    <DeadMales>
+        <name>Larry Hagman</name>
+        <gender>Larry Hagman</gender>
+        <birthday>1931-09-21</birthday>
+        <deathday>2012-11-23</deathday>
+        <url>https://www.tvmaze.com/people/36580/larry-hagman</url>
+    </DeadMales>
+    <DeadMales>
+        <name>Ken Kercheval</name>
+        <gender>Ken Kercheval</gender>
+        <birthday>1935-07-15</birthday>
+        <deathday>2019-04-21</deathday>
+        <url>https://www.tvmaze.com/people/36590/ken-kercheval</url>
+    </DeadMales>
+</Data>
